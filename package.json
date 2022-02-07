@@ -24,6 +24,6 @@
   "dependencies": {
     "@tweenjs/tween.js": "^18.6.4",
     "pixi-sound": "^3.0.5",
-    "pixi.js": "^5.3.11"
+    "pixi.js": "^5.3.7"
   }
 }
